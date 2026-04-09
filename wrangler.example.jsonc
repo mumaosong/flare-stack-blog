@@ -17,14 +17,14 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "D1_DATABASE_ID",
+      "database_id": "3ac69266-da1c-411b-9bdf-46a8c8f45427",
       "migrations_dir": "migrations",
       "remote": true
     }
   ],
   "r2_buckets": [
     {
-      "bucket_name": "bucket-name-placeholder",
+      "bucket_name": "mu667",
       "binding": "R2",
       "remote": true
     }
@@ -32,7 +32,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "KV_NAMESPACE_ID",
+      "id": "a0be51df6a6a4edba4c586e9ad21414f",
       "remote": true
     },
     {
