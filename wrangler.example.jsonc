@@ -10,21 +10,21 @@
   "keep_vars": true,
   "routes": [
     {
-      "pattern": "www.mu667.dpdns.org",
+      "pattern": "DOMAIN_PLACEHOLDER",
       "custom_domain": true
     }
   ],
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "3ac69266-da1c-411b-9bdf-46a8c8f45427",
+      "database_id": "D1_DATABASE_ID",
       "migrations_dir": "migrations",
       "remote": true
     }
   ],
   "r2_buckets": [
     {
-      "bucket_name": "mu667",
+      "bucket_name": "bucket-name-placeholder",
       "binding": "R2",
       "remote": true
     }
@@ -32,12 +32,12 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "a0be51df6a6a4edba4c586e9ad21414f",
+      "id": "KV_NAMESPACE_ID",
       "remote": true
     },
     {
       "binding": "OAUTH_KV",
-      "id": "a0be51df6a6a4edba4c586e9ad21414f",
+      "id": "KV_NAMESPACE_ID",
       "remote": true
     }
   ],
