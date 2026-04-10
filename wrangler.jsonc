@@ -10,7 +10,7 @@
   "keep_vars": true,
   "routes": [
     {
-      "pattern": "DOMAIN_PLACEHOLDER",
+      "pattern": "www.mu667.dpdns.org",
       "custom_domain": true
     }
   ],
@@ -37,7 +37,7 @@
     },
     {
       "binding": "OAUTH_KV",
-      "id": "KV_NAMESPACE_ID",
+      "id": "a0be51df6a6a4edba4c586e9ad21414f",
       "remote": true
     }
   ],
